@@ -1,0 +1,6 @@
+{
+  "name": "FinFlow - Monthly Budget & Expense Intelligence",
+  "description": "Personal finance management dashboard with automated transaction categorization, monthly spending insights, budget matrix, and PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
